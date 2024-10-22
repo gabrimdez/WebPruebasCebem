@@ -36,3 +36,7 @@ git remote add origin https://github.com/gabrimdez/web-prueba.git
 rmdir /s .git
 
 dir /a
+
+## Clonar un archivo de github
+
+git clone https://github...
